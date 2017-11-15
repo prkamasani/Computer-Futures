@@ -1,0 +1,12 @@
+D:\Projects\HellowWorld Application\CodedUITestProject\bin\Debug\ApplicationInsights.config
+D:\Projects\HellowWorld Application\CodedUITestProject\bin\Debug\CodedUITestProject.dll
+D:\Projects\HellowWorld Application\CodedUITestProject\bin\Debug\CodedUITestProject.pdb
+D:\Projects\HellowWorld Application\CodedUITestProject\bin\Debug\EvalServiceLibrary.dll
+D:\Projects\HellowWorld Application\CodedUITestProject\bin\Debug\HellowWorld Application.exe
+D:\Projects\HellowWorld Application\CodedUITestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\HellowWorld Application\CodedUITestProject\bin\Debug\EvalServiceLibrary.pdb
+D:\Projects\HellowWorld Application\CodedUITestProject\bin\Debug\HellowWorld Application.pdb
+D:\Projects\HellowWorld Application\CodedUITestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Projects\HellowWorld Application\CodedUITestProject\obj\Debug\CodedUITestProject.csprojResolveAssemblyReference.cache
+D:\Projects\HellowWorld Application\CodedUITestProject\obj\Debug\CodedUITestProject.dll
+D:\Projects\HellowWorld Application\CodedUITestProject\obj\Debug\CodedUITestProject.pdb

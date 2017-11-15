@@ -1,0 +1,6 @@
+D:\Projects\HellowWorld Application\HellowWorld Application\bin\Debug\HellowWorld Application.exe.config
+D:\Projects\HellowWorld Application\HellowWorld Application\obj\Debug\HellowWorld Application.csprojResolveAssemblyReference.cache
+D:\Projects\HellowWorld Application\HellowWorld Application\bin\Debug\HellowWorld Application.exe
+D:\Projects\HellowWorld Application\HellowWorld Application\bin\Debug\HellowWorld Application.pdb
+D:\Projects\HellowWorld Application\HellowWorld Application\obj\Debug\HellowWorld Application.exe
+D:\Projects\HellowWorld Application\HellowWorld Application\obj\Debug\HellowWorld Application.pdb
